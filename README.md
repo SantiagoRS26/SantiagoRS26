@@ -59,23 +59,15 @@
 </p>
 
 <br>
-<br>
-
------
-
-<br>
-<br>
 
 ## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width ="80"><b> Contactame!</b>
+
 <br>
 
-<p align="center">
-  
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/santiago-roldan-silva/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:santiagors2611@gmail.com)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/santiago_roldan11/)
 
-</p>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
